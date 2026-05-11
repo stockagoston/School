@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Catan/Catan.vcxproj" Id="ad3865b7-51b1-4dc5-ae95-2b6e767ad857" />
+</Solution>
